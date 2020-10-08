@@ -1,5 +1,5 @@
 ## Description
-[NestJS](https://github.com/nestjs/nest) framework (GraphQL/TypeScript) example of REST API that will enable a client to perform CRUD operations on the contact collection.
+[NestJS](https://github.com/nestjs/nest) framework (GraphQL/TypeScript) example of APIs that will enable a client to perform CRUD operations on the contact collection.
 
 ## Installation
 ```bash
